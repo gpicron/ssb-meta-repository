@@ -1,3 +1,5 @@
 {
-  "projects": {}
+  "projects": {
+    "ssb-typescript": "https://github.com/gpicron/ssb-typescript.git"
+  }
 }
