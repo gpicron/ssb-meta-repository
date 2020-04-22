@@ -1,6 +1,7 @@
 {
   "projects": {
     "ssb-typescript": "https://github.com/gpicron/ssb-typescript.git",
-    "ssb-subjective-group": "https://github.com/gpicron/ssb-subjective-group.git"
+    "ssb-subjective-group": "https://github.com/gpicron/ssb-subjective-group.git",
+    "secret-stack-decorators": "https://gitlab.com/staltz/secret-stack-decorators.git"
   }
 }

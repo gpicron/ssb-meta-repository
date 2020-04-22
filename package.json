@@ -1,0 +1,19 @@
+{
+  "name": "ssb-meta-repository",
+  "version": "1.0.0",
+  "description": "Meta repository for all work around ssb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gpicron/ssb-meta-repository.git"
+  },
+  "author": "Geoffrey Picron",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gpicron/ssb-meta-repository/issues"
+  },
+  "homepage": "https://github.com/gpicron/ssb-meta-repository#readme"
+}
